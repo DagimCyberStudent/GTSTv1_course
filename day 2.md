@@ -1,11 +1,11 @@
            ⬜INTRODUCTION  TO  LINUX
 
-  linux is a kernal 
-    WHAT IS KERNAL?
-  -> kernel is a code/program that used to meet your software and hardware. and allocate some resources.
-   . then person called"LINUS TORVALDS" created the linux kernal.and posted it online to make it open-source.  
-   * RICHARD STALLMAN announced the GNU project in 1983 and confounded the free software foundation in 1985
-   * so GNU+LINUX will give the GNU/LINUX os
+     linux is a kernal 
+       WHAT IS KERNAL?
+    -> kernel is a code/program that used to meet your software and hardware. and allocate some resources.
+     . then person called"LINUS TORVALDS" created the linux kernal.and posted it online to make it open-source.  
+     * RICHARD STALLMAN announced the GNU project in 1983 and confounded the free software foundation in 1985
+     * so GNU+LINUX will give the GNU/LINUX os
 
         WHAT IS SHELL?
   > user communication with the kernal by the shell.
