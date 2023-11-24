@@ -1,29 +1,4 @@
-    WHAT IS WE WILL LEARN IN THIS CORSE 
-
-     . SEASON 1
-        > introduction to ethical hacking(1)
-        > linux (5)
-        > python (3)
-        > bash (2)
-        > networking (1)
-
-      .SEASON 2
-        > footprinting and recon
-        > scanning network
-        > malware threat
-        > social engineering(social media hacking)
-
-       cont...
-       . steganography & cryptography
-       . sniffing
-       . system hacking (phone,computer,service hacking,reverse shell)
-       . dos/ddos+dark web
-       . hacking websites
-       . hacking wireless neetworks {wifi and ethernet hacking}
-       . ctf
-       . bug bounty hunthing & what you have to do next?
-
-         git & github
+       git & github
          . git is a version control system or tool. simply,a system to manage your files.
          . seves the file locally or remote server(github/gitlab)
          . made by the linux development community 
