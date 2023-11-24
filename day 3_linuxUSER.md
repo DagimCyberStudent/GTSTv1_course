@@ -1,9 +1,9 @@
                 LINUX FOR USER😎
-         overview of kali linux
-      ●  Specifically,i will going to show you can have any kinda,but debian is recomended.
-      ● previously known as blacktrack  
+          overview of kali linux
+       ●  Specifically,i will going to show you can have any kinda,but debian is recomended.
+       ● previously known as blacktrack  
         cont..
-     - you can switch between your desktop enviroment
+      - you can switch between your desktop enviroment
             tool kali
      1) information gathering
    ● tools for information gathering,in system,network,host  
