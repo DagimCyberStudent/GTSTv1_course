@@ -63,8 +63,11 @@
                            Bash Input
              ● On bash we have 2 methods to accept input 1. Read function 2. Arguments
                   1) Bash read 
-● Read used to accept inputs while the script is running. ● Syntax: ○ read -p “Text To Display” var ○ read -sp “Password: ” var  =>   used to accept hidden texts like password. ○ read -a var  =>   for accepting arrays(lists)
-Cont…
+         ● Read used to accept inputs while the script is running. 
+         ● Syntax: 
+                   ○ read -p “Text To Display” var 
+                   ○ read -sp “Password: ” var  =>   used to accept hidden texts like password. 
+                   ○ read -a var  =>   for accepting arrays(lists)
                   2) Arguments
           ● These helps to get input before the script starts 
          ● Syntax: 
@@ -104,5 +107,4 @@ Cont…
            ● But for strings you can use sign too
           -> If you used (( condition ))  => you will use numeric comparison
         -> On bash we don't have indentation but if u ﬁnished writing the body you type “ﬁ” 
-                        Cont…
-               Nested if      
+                    
