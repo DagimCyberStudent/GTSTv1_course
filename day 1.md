@@ -1,4 +1,4 @@
-       git & github
+      git & github
          . git is a version control system or tool. simply,a system to manage your files.
          . seves the file locally or remote server(github/gitlab)
          . made by the linux development community 
